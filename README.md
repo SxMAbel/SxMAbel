@@ -15,6 +15,9 @@ I am 17 Years old, I've been learning to code for 1 year, I started with batch s
 <a href="https://www.github.com/SxMAbel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SxMAbel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### Time Coded since Jul 21 2022
+[![wakatime](https://wakatime.com/badge/user/f28a63d7-1065-4019-8563-268dd6e5bb8f.svg)](https://wakatime.com/@f28a63d7-1065-4019-8563-268dd6e5bb8f)
+
 ### Skills
 
 <p align="left">
