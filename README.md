@@ -7,8 +7,8 @@ Discord Developer
 I am 17 Years old, I've been since 2021, I started with batch switched to Python then got a passion in making websites and discord bots so I started to learn JavaScript and HTML.
 
 * 🌍  I'm based in Philipsburg, Sint Maarten
-* ✉️  You can contact me at [business@abelpurnwasy.ml](mailto:business@abelpurnwasy.ml)
-* 🚀  I'm currently working on [Lava Jukebox](http://lavajukebox.ml)
+* ✉️  You can contact me at [business@abelpurnwasy.com](mailto:business@abelpurnwasy.com)
+* 🚀  I'm currently working on [Lava Jukebox](http://lavajukebox.com)
 * 🧠  I'm learning Javascript, Typescript and HTML
 * 🤝  I'm open to collaborating on any project that can benefit me in any way
 
