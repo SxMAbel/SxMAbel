@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Philipsburg, Sint Maarten<br>✉️  You can contact me at business@abelpurnwasy.com<br>🚀  I'm currently working on [Lava Jukebox](https://lavajukebox.com)<br>🧠  I'm a software engineer
+🌍  I'm based in Philipsburg, Sint Maarten<br>💻  View my [portfolio](https://abelpurnwasy.com), you can also contact me there!<br>🚀  I'm currently working on [Lava Jukebox](https://lavajukebox.com)<br>📕  I'm a software engineer
 
 
 ## 🌐 Socials:
