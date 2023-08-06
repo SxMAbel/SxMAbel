@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Philipsburg, Sint Maarten<br>✉️  You can contact me at business@abelpurnwasy.com<br>🚀  I'm currently working on Lava Jukebox<br>🧠  I'm a software engineer
+🌍  I'm based in Philipsburg, Sint Maarten<br>✉️  You can contact me at business@abelpurnwasy.com<br>🚀  I'm currently working on [Lava Jukebo](https://lavajukebox.com)x<br>🧠  I'm a software engineer
 
 
 ## 🌐 Socials:
@@ -20,12 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SxMAbel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=SxMAbel&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/sxmabel) 
